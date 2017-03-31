@@ -1,0 +1,2584 @@
+ [
+  {
+  "id": 40686591,
+  "load_number": "608645581",
+  "stops": [
+            {
+            "id": 84421012,
+            "href": "v1/load/40686591/stop/84421012",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656839117"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61357697,
+                          "href": "v1/shipment/61357697"
+                          }
+                          ],
+            "location_name": "SC PARETS DEL VALLES - BARCELO",
+            "location_ref": "ES37_1000",
+            "location_id": 4283853,
+            "location_latitude": 41.562836,
+            "location_longitude": 2.230866,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "POLIGON Z",
+            "address2": "3 CARRER DE LA LOGISTICA",
+            "address3": "935620300",
+            "city": "PARETS DEL VALLES",
+            "state": "B",
+            "zip": "08150",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-08T00:00:00+01:00",
+            "planned_end": "2016-03-08T23:59:00+01:00",
+            "actual_arrival": "2016-05-02T01:03:00+02:00",
+            "actual_departure": null,
+            "eta": "2016-04-11T16:55:00+02:00",
+            "pallets": 450,
+            "pieces": 450,
+            "weight": 24802.0029,
+            "volume": 2193.0405
+            },
+            {
+            "id": 84421013,
+            "href": "v1/load/40686591/stop/84421013",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656839117"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61357697,
+                          "href": "v1/shipment/61357697"
+                          }
+                          ],
+            "location_name": "CASA TARRADELLAS S.A.",
+            "location_ref": "5000427294",
+            "location_id": 5113566,
+            "location_latitude": 41.960663,
+            "location_longitude": 2.232571,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "CTRA. PUIGCERDA. KM. 70",
+            "address2": null,
+            "address3": null,
+            "city": "GRUB-VIC",
+            "state": "B",
+            "zip": "08503",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-09T00:00:00+01:00",
+            "planned_end": "2016-03-09T23:59:00+01:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": "2016-03-16T19:55:00+01:00",
+            "pallets": 450,
+            "pieces": 450,
+            "weight": 24802.0029,
+            "volume": 2193.0405
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61357697,
+                "href": "v1/shipment/61357697"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645581"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656839117"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SPAIN PAY",
+  "views": {},
+  "vehicle": "HAN",
+  "driver": "4SHDRIVER1",
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+34618732540",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686628,
+  "load_number": "608645596",
+  "stops": [
+            {
+            "id": 84421086,
+            "href": "v1/load/40686628/stop/84421086",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656840664"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61359016,
+                          "href": "v1/shipment/61359016"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-29T00:00:00+02:00",
+            "planned_end": "2016-03-29T23:59:00+02:00",
+            "actual_arrival": "2016-05-16T14:28:26+02:00",
+            "actual_departure": "2016-05-16T14:28:37+02:00",
+            "eta": null,
+            "pallets": 341.25,
+            "pieces": 38,
+            "weight": 8746.1121,
+            "volume": 0
+            },
+            {
+            "id": 84421087,
+            "href": "v1/load/40686628/stop/84421087",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656840664"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61359016,
+                          "href": "v1/shipment/61359016"
+                          }
+                          ],
+            "location_name": "MANN+HUMMEL GMBH",
+            "location_ref": "5000795191",
+            "location_id": 4289847,
+            "location_latitude": 48.891,
+            "location_longitude": 9.2,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "HINDENBURGSTRASSE 45",
+            "address2": null,
+            "address3": null,
+            "city": "LUDWIGSBURG",
+            "state": null,
+            "zip": "71638",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-30T08:00:00+02:00",
+            "planned_end": "2016-03-30T17:00:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": "2016-05-16T16:30:00+02:00",
+            "pallets": 341.25,
+            "pieces": 38,
+            "weight": 8746.1121,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61359016,
+                "href": "v1/shipment/61359016"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645596"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656840664"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": "ADAM",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686748,
+  "load_number": "608645622",
+  "stops": [
+            {
+            "id": 84421334,
+            "href": "v1/load/40686748/stop/84421334",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843819"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362224,
+                          "href": "v1/shipment/61362224"
+                          }
+                          ],
+            "location_name": "CHEP TRAFFORD PARK",
+            "location_ref": "GB1H_1000",
+            "location_id": 4281388,
+            "location_latitude": 53.479599,
+            "location_longitude": -2.24881,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "VILLAGE WAY",
+            "address2": null,
+            "address3": null,
+            "city": "MANCHESTER",
+            "state": null,
+            "zip": "M17 1HR",
+            "country": "GB"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-26T00:00:00+01:00",
+            "planned_end": "2016-04-26T23:59:00+01:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 253.08,
+            "pieces": 180,
+            "weight": 11111.2973,
+            "volume": 1356.083
+            },
+            {
+            "id": 84421335,
+            "href": "v1/load/40686748/stop/84421335",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843819"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362224,
+                          "href": "v1/shipment/61362224"
+                          }
+                          ],
+            "location_name": "BOUGHEY DISTRIBUTION LTD",
+            "location_ref": "5000481941",
+            "location_id": 5065953,
+            "location_latitude": 53.067138,
+            "location_longitude": -2.522118,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "WARDLE INDUSTRIAL ESTATE",
+            "address2": "WARDLE",
+            "address3": null,
+            "city": "NANTWICH",
+            "state": null,
+            "zip": "CW5 6RS",
+            "country": "GB"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-26T06:00:00+01:00",
+            "planned_end": "2016-04-26T18:00:00+01:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 253.08,
+            "pieces": 180,
+            "weight": 11111.2973,
+            "volume": 1356.083
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362224,
+                "href": "v1/shipment/61362224"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645622"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656843819"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "GB PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "SARIEGO LOGISTICA ASTURIAS",
+  "phone": "985446845",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "117958",
+  "address": {
+  "address1": "POL. IND. BAIÑA,24",
+  "address2": null,
+  "address3": null,
+  "city": "BAIÑA",
+  "state": "O",
+  "zip": "33682",
+  "country": "ES"
+  }
+  }
+  },
+  {
+  "id": 40686805,
+  "load_number": "608645628",
+  "stops": [
+            {
+            "id": 84421448,
+            "href": "v1/load/40686805/stop/84421448",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843911"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362398,
+                          "href": "v1/shipment/61362398"
+                          }
+                          ],
+            "location_name": "J&J KUORMALAVAT OY",
+            "location_ref": "FI1B_1000",
+            "location_id": 4906678,
+            "location_latitude": 62.42188,
+            "location_longitude": 25.92031,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "KANKAANPÄÄNTIE 1",
+            "address2": null,
+            "address3": null,
+            "city": "LAUKAA AS",
+            "state": null,
+            "zip": "41350",
+            "country": "FI"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-22T00:00:00+03:00",
+            "planned_end": "2016-04-22T23:59:00+03:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 1,
+            "pieces": 1,
+            "weight": 55.1156,
+            "volume": 4.9441
+            },
+            {
+            "id": 84421449,
+            "href": "v1/load/40686805/stop/84421449",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843911"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362398,
+                          "href": "v1/shipment/61362398"
+                          }
+                          ],
+            "location_name": "OLVI OYJ",
+            "location_ref": "0100652142",
+            "location_id": 5190261,
+            "location_latitude": 63.55,
+            "location_longitude": 27.183,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "OLVITIE I-IV",
+            "address2": null,
+            "address3": null,
+            "city": "IISALMI",
+            "state": null,
+            "zip": "74100",
+            "country": "FI"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-25T08:00:00+03:00",
+            "planned_end": "2016-04-25T17:00:00+03:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 1,
+            "pieces": 1,
+            "weight": 55.1156,
+            "volume": 4.9441
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362398,
+                "href": "v1/shipment/61362398"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645628"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656843911"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SCANDA PAY",
+  "views": {},
+  "vehicle": "LEIA",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686839,
+  "load_number": "608645645",
+  "stops": [
+            {
+            "id": 84421517,
+            "href": "v1/load/40686839/stop/84421517",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844181"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362512,
+                          "href": "v1/shipment/61362512"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-22T00:00:00+02:00",
+            "planned_end": "2016-04-22T23:59:00+02:00",
+            "actual_arrival": "2016-05-06T15:39:19+02:00",
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            },
+            {
+            "id": 84421518,
+            "href": "v1/load/40686839/stop/84421518",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844181"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362512,
+                          "href": "v1/shipment/61362512"
+                          }
+                          ],
+            "location_name": "EUWE EUGEN WEXLER GMBH",
+            "location_ref": "5000795101",
+            "location_id": 4299199,
+            "location_latitude": 49.504111,
+            "location_longitude": 11.293903,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "INDUSTRIESTRASSE 28",
+            "address2": null,
+            "address3": null,
+            "city": "LAUF",
+            "state": null,
+            "zip": "91207",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-25T00:00:00+02:00",
+            "planned_end": "2016-04-25T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362512,
+                "href": "v1/shipment/61362512"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645645"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844181"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": "CHEWBACCA",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686840,
+  "load_number": "608645646",
+  "stops": [
+            {
+            "id": 84421519,
+            "href": "v1/load/40686840/stop/84421519",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844182"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362513,
+                          "href": "v1/shipment/61362513"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-22T00:00:00+02:00",
+            "planned_end": "2016-04-22T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            },
+            {
+            "id": 84421520,
+            "href": "v1/load/40686840/stop/84421520",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844182"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362513,
+                          "href": "v1/shipment/61362513"
+                          }
+                          ],
+            "location_name": "EUWE EUGEN WEXLER GMBH",
+            "location_ref": "5000795101",
+            "location_id": 4299199,
+            "location_latitude": 49.504111,
+            "location_longitude": 11.293903,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "INDUSTRIESTRASSE 28",
+            "address2": null,
+            "address3": null,
+            "city": "LAUF",
+            "state": null,
+            "zip": "91207",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-25T00:00:00+02:00",
+            "planned_end": "2016-04-25T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362513,
+                "href": "v1/shipment/61362513"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645646"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844182"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": "CHEWBACCA",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40687195,
+  "load_number": "608645952",
+  "stops": [
+            {
+            "id": 84422324,
+            "href": "v1/load/40687195/stop/84422324",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3750069529"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364008,
+                          "href": "v1/shipment/61364008"
+                          }
+                          ],
+            "location_name": "PRISMA SPORTA",
+            "location_ref": "0100954735",
+            "location_id": 5194008,
+            "location_latitude": 56.9645,
+            "location_longitude": 24.1191,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "GROSTONAS IELA 1 .",
+            "address2": null,
+            "address3": null,
+            "city": "RĪGA",
+            "state": "RIX",
+            "zip": "LV-1013",
+            "country": "LV"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-27T00:00:00+03:00",
+            "planned_end": "2016-05-01T23:59:00+03:00",
+            "actual_arrival": "2016-05-01T10:00:00+03:00",
+            "actual_departure": "2016-05-01T11:00:00+03:00",
+            "eta": null,
+            "pallets": 10,
+            "pieces": 10,
+            "weight": 551.1556,
+            "volume": 48.7342
+            },
+            {
+            "id": 84422325,
+            "href": "v1/load/40687195/stop/84422325",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3750069529"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364008,
+                          "href": "v1/shipment/61364008"
+                          }
+                          ],
+            "location_name": "SERVICE CENTER RIGA",
+            "location_ref": "LV02_3000",
+            "location_id": 4990102,
+            "location_latitude": 56.84852,
+            "location_longitude": 24.30893,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "GETLI U STR.18",
+            "address2": null,
+            "address3": null,
+            "city": "RUMBULA, STOPI U DISTRICT",
+            "state": "087",
+            "zip": "LV-2121",
+            "country": "LV"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-27T00:00:00+03:00",
+            "planned_end": "2016-05-01T23:59:00+03:00",
+            "actual_arrival": "2016-05-01T12:00:00+03:00",
+            "actual_departure": "2016-05-01T13:00:00+03:00",
+            "eta": null,
+            "pallets": 10,
+            "pieces": 10,
+            "weight": 551.1556,
+            "volume": 48.7342
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61364008,
+                "href": "v1/shipment/61364008"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645952"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3750069529"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "LATVIA PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "BALTIC LOGISTIC SOLUTIONS SIA",
+  "phone": "+37127031441",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "BLS LV",
+  "address": {
+  "address1": "GETLINU 18",
+  "address2": null,
+  "address3": null,
+  "city": "RUMBULA",
+  "state": "095",
+  "zip": "LV-2121",
+  "country": "LV"
+  }
+  }
+  },
+  {
+  "id": 40687393,
+  "load_number": "608646111",
+  "stops": [
+            {
+            "id": 84422749,
+            "href": "v1/load/40687393/stop/84422749",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844655"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364186,
+                          "href": "v1/shipment/61364186"
+                          }
+                          ],
+            "location_name": "ES1J - FUENLABRADA_1000",
+            "location_ref": "ES1J_1000",
+            "location_id": 4283823,
+            "location_latitude": 40.27459,
+            "location_longitude": -3.7614,
+            "location_coordinates_accuracy": "High",
+            "address": {
+            "address1": "C/ CINCEL S/N POLIGONO LA CANTUENA",
+            "address2": null,
+            "address3": null,
+            "city": "FUENLABRADA",
+            "state": "M",
+            "zip": "28947",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-29T00:00:00+02:00",
+            "planned_end": "2016-04-29T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 101.88,
+            "pieces": 180,
+            "weight": 5158.8166,
+            "volume": 495.8179
+            },
+            {
+            "id": 84422750,
+            "href": "v1/load/40687393/stop/84422750",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844655"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364186,
+                          "href": "v1/shipment/61364186"
+                          }
+                          ],
+            "location_name": "MAXXIUM - VALDEMORO - MADRID",
+            "location_ref": "0100361597",
+            "location_id": 5106865,
+            "location_latitude": 40.190079,
+            "location_longitude": -3.67749,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "CTRA. N-IV KM 31.850",
+            "address2": null,
+            "address3": null,
+            "city": "VALDEMORO",
+            "state": "M",
+            "zip": "28340",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-02T07:00:00+02:00",
+            "planned_end": "2016-05-02T19:00:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": "2016-05-02T13:55:00+02:00",
+            "pallets": 101.88,
+            "pieces": 180,
+            "weight": 5158.8166,
+            "volume": 495.8179
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61364186,
+                "href": "v1/shipment/61364186"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608646111"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844655"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SPAIN PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "SARIEGO LOGISTICA ASTURIAS",
+  "phone": "985446845",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "117958",
+  "address": {
+  "address1": "POL. IND. BAIÑA,24",
+  "address2": null,
+  "address3": null,
+  "city": "BAIÑA",
+  "state": "O",
+  "zip": "33682",
+  "country": "ES"
+  }
+  }
+  },
+  {
+  "id": 40687499,
+  "load_number": "608646194",
+  "stops": [
+            {
+            "id": 84422976,
+            "href": "v1/load/40687499/stop/84422976",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844703"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364292,
+                          "href": "v1/shipment/61364292"
+                          }
+                          ],
+            "location_name": "ES1J - FUENLABRADA_1000",
+            "location_ref": "ES1J_1000",
+            "location_id": 4283823,
+            "location_latitude": 40.27459,
+            "location_longitude": -3.7614,
+            "location_coordinates_accuracy": "High",
+            "address": {
+            "address1": "C/ CINCEL S/N POLIGONO LA CANTUENA",
+            "address2": null,
+            "address3": null,
+            "city": "FUENLABRADA",
+            "state": "M",
+            "zip": "28947",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-06T00:00:00+02:00",
+            "planned_end": "2016-05-06T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 199,
+            "pieces": 199,
+            "weight": 10967.9968,
+            "volume": 969.7406
+            },
+            {
+            "id": 84422977,
+            "href": "v1/load/40687499/stop/84422977",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844703"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364292,
+                          "href": "v1/shipment/61364292"
+                          }
+                          ],
+            "location_name": "MAXXIUM - VALDEMORO - MADRID",
+            "location_ref": "0100361597",
+            "location_id": 5106865,
+            "location_latitude": 40.190079,
+            "location_longitude": -3.67749,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "CTRA. N-IV KM 31.850",
+            "address2": null,
+            "address3": null,
+            "city": "VALDEMORO",
+            "state": "M",
+            "zip": "28340",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-09T07:00:00+02:00",
+            "planned_end": "2016-05-09T19:00:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 199,
+            "pieces": 199,
+            "weight": 10967.9968,
+            "volume": 969.7406
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61364292,
+                "href": "v1/shipment/61364292"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608646194"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844703"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SPAIN PAY",
+  "views": {},
+  "vehicle": "FRED",
+  "driver": "4SHDRIVER1",
+  "carrier": {
+  "name": "SARIEGO LOGISTICA ASTURIAS",
+  "phone": "985446845",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "117958",
+  "address": {
+  "address1": "POL. IND. BAIÑA,24",
+  "address2": null,
+  "address3": null,
+  "city": "BAIÑA",
+  "state": "O",
+  "zip": "33682",
+  "country": "ES"
+  }
+  }
+  },
+  {
+  "id": 40687845,
+  "load_number": "608646332",
+  "stops": [
+            {
+            "id": 84423694,
+            "href": "v1/load/40687845/stop/84423694",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656847113"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61368979,
+                          "href": "v1/shipment/61368979"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-06T00:00:00+02:00",
+            "planned_end": "2016-05-06T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 62.87,
+            "pieces": 7,
+            "weight": 1257.9355,
+            "volume": 0
+            },
+            {
+            "id": 84423695,
+            "href": "v1/load/40687845/stop/84423695",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656847113"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61368979,
+                          "href": "v1/shipment/61368979"
+                          }
+                          ],
+            "location_name": "PIERBURG S.R.O.",
+            "location_ref": "0100318432",
+            "location_id": 5186335,
+            "location_latitude": 50.6504,
+            "location_longitude": 13.9874,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "K PIERBURGU 1",
+            "address2": null,
+            "address3": null,
+            "city": "TRMICE",
+            "state": null,
+            "zip": "400 04",
+            "country": "CZ"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-10T00:00:00+02:00",
+            "planned_end": "2016-05-10T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 62.87,
+            "pieces": 7,
+            "weight": 1257.9355,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61368979,
+                "href": "v1/shipment/61368979"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608646332"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656847113"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "SCHENKER SPOL. S R.O",
+  "phone": "00420311711352",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "DBSCZAU",
+  "address": {
+  "address1": "K VYPICHU 1087",
+  "address2": null,
+  "address3": null,
+  "city": "RUDNÁ U PRAHY",
+  "state": null,
+  "zip": "252 19",
+  "country": "CZ"
+  }
+  }
+  },
+  
+  {
+  "id": 40686591,
+  "load_number": "608645581",
+  "stops": [
+            {
+            "id": 84421012,
+            "href": "v1/load/40686591/stop/84421012",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656839117"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61357697,
+                          "href": "v1/shipment/61357697"
+                          }
+                          ],
+            "location_name": "SC PARETS DEL VALLES - BARCELO",
+            "location_ref": "ES37_1000",
+            "location_id": 4283853,
+            "location_latitude": 41.562836,
+            "location_longitude": 2.230866,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "POLIGON Z",
+            "address2": "3 CARRER DE LA LOGISTICA",
+            "address3": "935620300",
+            "city": "PARETS DEL VALLES",
+            "state": "B",
+            "zip": "08150",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-08T00:00:00+01:00",
+            "planned_end": "2016-03-08T23:59:00+01:00",
+            "actual_arrival": "2016-05-02T01:03:00+02:00",
+            "actual_departure": null,
+            "eta": "2016-04-11T16:55:00+02:00",
+            "pallets": 450,
+            "pieces": 450,
+            "weight": 24802.0029,
+            "volume": 2193.0405
+            },
+            {
+            "id": 84421013,
+            "href": "v1/load/40686591/stop/84421013",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656839117"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61357697,
+                          "href": "v1/shipment/61357697"
+                          }
+                          ],
+            "location_name": "CASA TARRADELLAS S.A.",
+            "location_ref": "5000427294",
+            "location_id": 5113566,
+            "location_latitude": 41.960663,
+            "location_longitude": 2.232571,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "CTRA. PUIGCERDA. KM. 70",
+            "address2": null,
+            "address3": null,
+            "city": "GRUB-VIC",
+            "state": "B",
+            "zip": "08503",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-09T00:00:00+01:00",
+            "planned_end": "2016-03-09T23:59:00+01:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": "2016-03-16T19:55:00+01:00",
+            "pallets": 450,
+            "pieces": 450,
+            "weight": 24802.0029,
+            "volume": 2193.0405
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61357697,
+                "href": "v1/shipment/61357697"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645581"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656839117"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SPAIN PAY",
+  "views": {},
+  "vehicle": "HAN",
+  "driver": "4SHDRIVER1",
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+34618732540",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686628,
+  "load_number": "608645596",
+  "stops": [
+            {
+            "id": 84421086,
+            "href": "v1/load/40686628/stop/84421086",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656840664"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61359016,
+                          "href": "v1/shipment/61359016"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-29T00:00:00+02:00",
+            "planned_end": "2016-03-29T23:59:00+02:00",
+            "actual_arrival": "2016-05-16T14:28:26+02:00",
+            "actual_departure": "2016-05-16T14:28:37+02:00",
+            "eta": null,
+            "pallets": 341.25,
+            "pieces": 38,
+            "weight": 8746.1121,
+            "volume": 0
+            },
+            {
+            "id": 84421087,
+            "href": "v1/load/40686628/stop/84421087",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656840664"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61359016,
+                          "href": "v1/shipment/61359016"
+                          }
+                          ],
+            "location_name": "MANN+HUMMEL GMBH",
+            "location_ref": "5000795191",
+            "location_id": 4289847,
+            "location_latitude": 48.891,
+            "location_longitude": 9.2,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "HINDENBURGSTRASSE 45",
+            "address2": null,
+            "address3": null,
+            "city": "LUDWIGSBURG",
+            "state": null,
+            "zip": "71638",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-03-30T08:00:00+02:00",
+            "planned_end": "2016-03-30T17:00:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": "2016-05-16T16:30:00+02:00",
+            "pallets": 341.25,
+            "pieces": 38,
+            "weight": 8746.1121,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61359016,
+                "href": "v1/shipment/61359016"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645596"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656840664"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": "ADAM",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686748,
+  "load_number": "608645622",
+  "stops": [
+            {
+            "id": 84421334,
+            "href": "v1/load/40686748/stop/84421334",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843819"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362224,
+                          "href": "v1/shipment/61362224"
+                          }
+                          ],
+            "location_name": "CHEP TRAFFORD PARK",
+            "location_ref": "GB1H_1000",
+            "location_id": 4281388,
+            "location_latitude": 53.479599,
+            "location_longitude": -2.24881,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "VILLAGE WAY",
+            "address2": null,
+            "address3": null,
+            "city": "MANCHESTER",
+            "state": null,
+            "zip": "M17 1HR",
+            "country": "GB"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-26T00:00:00+01:00",
+            "planned_end": "2016-04-26T23:59:00+01:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 253.08,
+            "pieces": 180,
+            "weight": 11111.2973,
+            "volume": 1356.083
+            },
+            {
+            "id": 84421335,
+            "href": "v1/load/40686748/stop/84421335",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843819"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362224,
+                          "href": "v1/shipment/61362224"
+                          }
+                          ],
+            "location_name": "BOUGHEY DISTRIBUTION LTD",
+            "location_ref": "5000481941",
+            "location_id": 5065953,
+            "location_latitude": 53.067138,
+            "location_longitude": -2.522118,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "WARDLE INDUSTRIAL ESTATE",
+            "address2": "WARDLE",
+            "address3": null,
+            "city": "NANTWICH",
+            "state": null,
+            "zip": "CW5 6RS",
+            "country": "GB"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-26T06:00:00+01:00",
+            "planned_end": "2016-04-26T18:00:00+01:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 253.08,
+            "pieces": 180,
+            "weight": 11111.2973,
+            "volume": 1356.083
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362224,
+                "href": "v1/shipment/61362224"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645622"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656843819"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "GB PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "SARIEGO LOGISTICA ASTURIAS",
+  "phone": "985446845",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "117958",
+  "address": {
+  "address1": "POL. IND. BAIÑA,24",
+  "address2": null,
+  "address3": null,
+  "city": "BAIÑA",
+  "state": "O",
+  "zip": "33682",
+  "country": "ES"
+  }
+  }
+  },
+  {
+  "id": 40686805,
+  "load_number": "608645628",
+  "stops": [
+            {
+            "id": 84421448,
+            "href": "v1/load/40686805/stop/84421448",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843911"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362398,
+                          "href": "v1/shipment/61362398"
+                          }
+                          ],
+            "location_name": "J&J KUORMALAVAT OY",
+            "location_ref": "FI1B_1000",
+            "location_id": 4906678,
+            "location_latitude": 62.42188,
+            "location_longitude": 25.92031,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "KANKAANPÄÄNTIE 1",
+            "address2": null,
+            "address3": null,
+            "city": "LAUKAA AS",
+            "state": null,
+            "zip": "41350",
+            "country": "FI"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-22T00:00:00+03:00",
+            "planned_end": "2016-04-22T23:59:00+03:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 1,
+            "pieces": 1,
+            "weight": 55.1156,
+            "volume": 4.9441
+            },
+            {
+            "id": 84421449,
+            "href": "v1/load/40686805/stop/84421449",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656843911"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362398,
+                          "href": "v1/shipment/61362398"
+                          }
+                          ],
+            "location_name": "OLVI OYJ",
+            "location_ref": "0100652142",
+            "location_id": 5190261,
+            "location_latitude": 63.55,
+            "location_longitude": 27.183,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "OLVITIE I-IV",
+            "address2": null,
+            "address3": null,
+            "city": "IISALMI",
+            "state": null,
+            "zip": "74100",
+            "country": "FI"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-25T08:00:00+03:00",
+            "planned_end": "2016-04-25T17:00:00+03:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 1,
+            "pieces": 1,
+            "weight": 55.1156,
+            "volume": 4.9441
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362398,
+                "href": "v1/shipment/61362398"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645628"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656843911"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SCANDA PAY",
+  "views": {},
+  "vehicle": "LEIA",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686839,
+  "load_number": "608645645",
+  "stops": [
+            {
+            "id": 84421517,
+            "href": "v1/load/40686839/stop/84421517",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844181"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362512,
+                          "href": "v1/shipment/61362512"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-22T00:00:00+02:00",
+            "planned_end": "2016-04-22T23:59:00+02:00",
+            "actual_arrival": "2016-05-06T15:39:19+02:00",
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            },
+            {
+            "id": 84421518,
+            "href": "v1/load/40686839/stop/84421518",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844181"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362512,
+                          "href": "v1/shipment/61362512"
+                          }
+                          ],
+            "location_name": "EUWE EUGEN WEXLER GMBH",
+            "location_ref": "5000795101",
+            "location_id": 4299199,
+            "location_latitude": 49.504111,
+            "location_longitude": 11.293903,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "INDUSTRIESTRASSE 28",
+            "address2": null,
+            "address3": null,
+            "city": "LAUF",
+            "state": null,
+            "zip": "91207",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-25T00:00:00+02:00",
+            "planned_end": "2016-04-25T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362512,
+                "href": "v1/shipment/61362512"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645645"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844181"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": "CHEWBACCA",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40686840,
+  "load_number": "608645646",
+  "stops": [
+            {
+            "id": 84421519,
+            "href": "v1/load/40686840/stop/84421519",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844182"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362513,
+                          "href": "v1/shipment/61362513"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-22T00:00:00+02:00",
+            "planned_end": "2016-04-22T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            },
+            {
+            "id": 84421520,
+            "href": "v1/load/40686840/stop/84421520",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844182"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61362513,
+                          "href": "v1/shipment/61362513"
+                          }
+                          ],
+            "location_name": "EUWE EUGEN WEXLER GMBH",
+            "location_ref": "5000795101",
+            "location_id": 4299199,
+            "location_latitude": 49.504111,
+            "location_longitude": 11.293903,
+            "location_coordinates_accuracy": "Low",
+            "address": {
+            "address1": "INDUSTRIESTRASSE 28",
+            "address2": null,
+            "address3": null,
+            "city": "LAUF",
+            "state": null,
+            "zip": "91207",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-25T00:00:00+02:00",
+            "planned_end": "2016-04-25T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 8.98,
+            "pieces": 1,
+            "weight": 179.6988,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61362513,
+                "href": "v1/shipment/61362513"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645646"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844182"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": "CHEWBACCA",
+  "driver": null,
+  "carrier": {
+  "name": "C.H. ROBINSON EUROPE B.V.",
+  "phone": "+36.18870490",
+  "phone_extension": null,
+  "fax": "+36.13827239",
+  "vendor_nbr": "NL81151427",
+  "address": {
+  "address1": "PARNASSUSWEG 821",
+  "address2": null,
+  "address3": null,
+  "city": "AMSTERDAM",
+  "state": null,
+  "zip": "1082 LZ",
+  "country": "NL"
+  }
+  }
+  },
+  {
+  "id": 40687195,
+  "load_number": "608645952",
+  "stops": [
+            {
+            "id": 84422324,
+            "href": "v1/load/40687195/stop/84422324",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3750069529"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364008,
+                          "href": "v1/shipment/61364008"
+                          }
+                          ],
+            "location_name": "PRISMA SPORTA",
+            "location_ref": "0100954735",
+            "location_id": 5194008,
+            "location_latitude": 56.9645,
+            "location_longitude": 24.1191,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "GROSTONAS IELA 1 .",
+            "address2": null,
+            "address3": null,
+            "city": "RĪGA",
+            "state": "RIX",
+            "zip": "LV-1013",
+            "country": "LV"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-27T00:00:00+03:00",
+            "planned_end": "2016-05-01T23:59:00+03:00",
+            "actual_arrival": "2016-05-01T10:00:00+03:00",
+            "actual_departure": "2016-05-01T11:00:00+03:00",
+            "eta": null,
+            "pallets": 10,
+            "pieces": 10,
+            "weight": 551.1556,
+            "volume": 48.7342
+            },
+            {
+            "id": 84422325,
+            "href": "v1/load/40687195/stop/84422325",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3750069529"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364008,
+                          "href": "v1/shipment/61364008"
+                          }
+                          ],
+            "location_name": "SERVICE CENTER RIGA",
+            "location_ref": "LV02_3000",
+            "location_id": 4990102,
+            "location_latitude": 56.84852,
+            "location_longitude": 24.30893,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "GETLI U STR.18",
+            "address2": null,
+            "address3": null,
+            "city": "RUMBULA, STOPI U DISTRICT",
+            "state": "087",
+            "zip": "LV-2121",
+            "country": "LV"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-27T00:00:00+03:00",
+            "planned_end": "2016-05-01T23:59:00+03:00",
+            "actual_arrival": "2016-05-01T12:00:00+03:00",
+            "actual_departure": "2016-05-01T13:00:00+03:00",
+            "eta": null,
+            "pallets": 10,
+            "pieces": 10,
+            "weight": 551.1556,
+            "volume": 48.7342
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61364008,
+                "href": "v1/shipment/61364008"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608645952"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3750069529"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "LATVIA PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "BALTIC LOGISTIC SOLUTIONS SIA",
+  "phone": "+37127031441",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "BLS LV",
+  "address": {
+  "address1": "GETLINU 18",
+  "address2": null,
+  "address3": null,
+  "city": "RUMBULA",
+  "state": "095",
+  "zip": "LV-2121",
+  "country": "LV"
+  }
+  }
+  },
+  {
+  "id": 40687393,
+  "load_number": "608646111",
+  "stops": [
+            {
+            "id": 84422749,
+            "href": "v1/load/40687393/stop/84422749",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844655"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364186,
+                          "href": "v1/shipment/61364186"
+                          }
+                          ],
+            "location_name": "ES1J - FUENLABRADA_1000",
+            "location_ref": "ES1J_1000",
+            "location_id": 4283823,
+            "location_latitude": 40.27459,
+            "location_longitude": -3.7614,
+            "location_coordinates_accuracy": "High",
+            "address": {
+            "address1": "C/ CINCEL S/N POLIGONO LA CANTUENA",
+            "address2": null,
+            "address3": null,
+            "city": "FUENLABRADA",
+            "state": "M",
+            "zip": "28947",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-04-29T00:00:00+02:00",
+            "planned_end": "2016-04-29T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 101.88,
+            "pieces": 180,
+            "weight": 5158.8166,
+            "volume": 495.8179
+            },
+            {
+            "id": 84422750,
+            "href": "v1/load/40687393/stop/84422750",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844655"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364186,
+                          "href": "v1/shipment/61364186"
+                          }
+                          ],
+            "location_name": "MAXXIUM - VALDEMORO - MADRID",
+            "location_ref": "0100361597",
+            "location_id": 5106865,
+            "location_latitude": 40.190079,
+            "location_longitude": -3.67749,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "CTRA. N-IV KM 31.850",
+            "address2": null,
+            "address3": null,
+            "city": "VALDEMORO",
+            "state": "M",
+            "zip": "28340",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-02T07:00:00+02:00",
+            "planned_end": "2016-05-02T19:00:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": "2016-05-02T13:55:00+02:00",
+            "pallets": 101.88,
+            "pieces": 180,
+            "weight": 5158.8166,
+            "volume": 495.8179
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61364186,
+                "href": "v1/shipment/61364186"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608646111"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844655"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SPAIN PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "SARIEGO LOGISTICA ASTURIAS",
+  "phone": "985446845",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "117958",
+  "address": {
+  "address1": "POL. IND. BAIÑA,24",
+  "address2": null,
+  "address3": null,
+  "city": "BAIÑA",
+  "state": "O",
+  "zip": "33682",
+  "country": "ES"
+  }
+  }
+  },
+  {
+  "id": 40687499,
+  "load_number": "608646194",
+  "stops": [
+            {
+            "id": 84422976,
+            "href": "v1/load/40687499/stop/84422976",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844703"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364292,
+                          "href": "v1/shipment/61364292"
+                          }
+                          ],
+            "location_name": "ES1J - FUENLABRADA_1000",
+            "location_ref": "ES1J_1000",
+            "location_id": 4283823,
+            "location_latitude": 40.27459,
+            "location_longitude": -3.7614,
+            "location_coordinates_accuracy": "High",
+            "address": {
+            "address1": "C/ CINCEL S/N POLIGONO LA CANTUENA",
+            "address2": null,
+            "address3": null,
+            "city": "FUENLABRADA",
+            "state": "M",
+            "zip": "28947",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-06T00:00:00+02:00",
+            "planned_end": "2016-05-06T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 199,
+            "pieces": 199,
+            "weight": 10967.9968,
+            "volume": 969.7406
+            },
+            {
+            "id": 84422977,
+            "href": "v1/load/40687499/stop/84422977",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656844703"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61364292,
+                          "href": "v1/shipment/61364292"
+                          }
+                          ],
+            "location_name": "MAXXIUM - VALDEMORO - MADRID",
+            "location_ref": "0100361597",
+            "location_id": 5106865,
+            "location_latitude": 40.190079,
+            "location_longitude": -3.67749,
+            "location_coordinates_accuracy": "Medium",
+            "address": {
+            "address1": "CTRA. N-IV KM 31.850",
+            "address2": null,
+            "address3": null,
+            "city": "VALDEMORO",
+            "state": "M",
+            "zip": "28340",
+            "country": "ES"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-09T07:00:00+02:00",
+            "planned_end": "2016-05-09T19:00:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 199,
+            "pieces": 199,
+            "weight": 10967.9968,
+            "volume": 969.7406
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61364292,
+                "href": "v1/shipment/61364292"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608646194"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656844703"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "SPAIN PAY",
+  "views": {},
+  "vehicle": "FRED",
+  "driver": "4SHDRIVER1",
+  "carrier": {
+  "name": "SARIEGO LOGISTICA ASTURIAS",
+  "phone": "985446845",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "117958",
+  "address": {
+  "address1": "POL. IND. BAIÑA,24",
+  "address2": null,
+  "address3": null,
+  "city": "BAIÑA",
+  "state": "O",
+  "zip": "33682",
+  "country": "ES"
+  }
+  }
+  },
+  {
+  "id": 40687845,
+  "load_number": "608646332",
+  "stops": [
+            {
+            "id": 84423694,
+            "href": "v1/load/40687845/stop/84423694",
+            "type": "Pick",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656847113"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61368979,
+                          "href": "v1/shipment/61368979"
+                          }
+                          ],
+            "location_name": "CHEP SERVICE CENTER  - AUTOMOTIVE",
+            "location_ref": "DE1G_2000",
+            "location_id": 4298259,
+            "location_latitude": 49.78092,
+            "location_longitude": 8.46446,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "AM WINKELGRABEN 13",
+            "address2": null,
+            "address3": null,
+            "city": "BIEBESHEIM",
+            "state": null,
+            "zip": "64584",
+            "country": "DE"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-06T00:00:00+02:00",
+            "planned_end": "2016-05-06T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 62.87,
+            "pieces": 7,
+            "weight": 1257.9355,
+            "volume": 0
+            },
+            {
+            "id": 84423695,
+            "href": "v1/load/40687845/stop/84423695",
+            "type": "Drop",
+            "refs": [
+                     {
+                     "name": "Shipment Ref #",
+                     "value": "3656847113"
+                     }
+                     ],
+            "shipments": [
+                          {
+                          "id": 61368979,
+                          "href": "v1/shipment/61368979"
+                          }
+                          ],
+            "location_name": "PIERBURG S.R.O.",
+            "location_ref": "0100318432",
+            "location_id": 5186335,
+            "location_latitude": 50.6504,
+            "location_longitude": 13.9874,
+            "location_coordinates_accuracy": null,
+            "address": {
+            "address1": "K PIERBURGU 1",
+            "address2": null,
+            "address3": null,
+            "city": "TRMICE",
+            "state": null,
+            "zip": "400 04",
+            "country": "CZ"
+            },
+            "contact_phone": null,
+            "contact_phone_extension": null,
+            "planned_start": "2016-05-10T00:00:00+02:00",
+            "planned_end": "2016-05-10T23:59:00+02:00",
+            "actual_arrival": null,
+            "actual_departure": null,
+            "eta": null,
+            "pallets": 62.87,
+            "pieces": 7,
+            "weight": 1257.9355,
+            "volume": 0
+            }
+            ],
+  "shipments": [
+                {
+                "id": 61368979,
+                "href": "v1/shipment/61368979"
+                }
+                ],
+  "refs": [
+           {
+           "name": "Shipper ref #",
+           "value": "608646332"
+           },
+           {
+           "name": "Shipment Ref #",
+           "value": "3656847113"
+           }
+           ],
+  "status": "ACCEPTED",
+  "load_group": "DACH PAY",
+  "views": {},
+  "vehicle": null,
+  "driver": null,
+  "carrier": {
+  "name": "SCHENKER SPOL. S R.O",
+  "phone": "00420311711352",
+  "phone_extension": null,
+  "fax": null,
+  "vendor_nbr": "DBSCZAU",
+  "address": {
+  "address1": "K VYPICHU 1087",
+  "address2": null,
+  "address3": null,
+  "city": "RUDNÁ U PRAHY",
+  "state": null,
+  "zip": "252 19",
+  "country": "CZ"
+  }
+  }
+  }
+  
+  ]
